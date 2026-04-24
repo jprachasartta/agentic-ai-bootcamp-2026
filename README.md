@@ -1,3 +1,5 @@
-cd project_code
-streamlit run Home.py
+<!-- cd project_code -->
+
 pip install -r requirements.txt
+
+streamlit run Home.py
